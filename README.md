@@ -32,10 +32,10 @@ To run the tests, execute the provided Python script. It includes functions for 
 This project can be deployed on any system with Python installed. Simply run the Python script to start using the pizza shop management system.
 
 ## Author
-This project was developed by [Your Name].
+This project was developed by Lathif.
 
 ## License
-This project is licensed under the [License Name].
+This project is licensed under the MIT Liscense.
 
 ## Acknowledgement
-Special thanks to [Any acknowledgements you want to include].
+Special thanks to Prof Omar Al Trad.
